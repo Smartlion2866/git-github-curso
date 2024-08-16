@@ -5,3 +5,5 @@ Hoy Viernes, continuamos aprendiendo Git y GitHub.
 Martes 09 de Julio de 2024, aprendiendo nuevos comandos de Git.
 
 Hoy 11 de Agosto de 2024, desde Medellin Colombia
+
+Hoy 15 de Agosto de 2024, desde Bello, Antioquia
